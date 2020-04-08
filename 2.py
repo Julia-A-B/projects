@@ -4,7 +4,5 @@ def vector(x):
     y[::2] = x
     return y
 
-x = np.array([1, 7, 8, 9, 10, 6])
-print(x)
-print(vector(x))
+
 

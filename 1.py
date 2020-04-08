@@ -1,4 +1,3 @@
-
 def fibonacci(n):
     i = 0
     b = 0
@@ -15,5 +14,3 @@ def fibonacci(n):
             i = i + 1
 
     return a
-
-print(fibonacci(10))
